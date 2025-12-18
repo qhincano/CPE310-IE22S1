@@ -5,7 +5,7 @@ Fundamentals of Data Science
 # Hi there, I'm [Your Name]! 👋
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jzyNiE/giphy.gif" width="400" alt="Coding Cat GIF](https://media.tenor.com/xyy_Bq_G_hEAAAAM/twice-feelspi.gif)">
+  <img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eXJ3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jzyNiE/giphy.gif" width="400" alt="Coding Cat GIF](https://media.tenor.com/xyy_Bq_G_hEAAAAM/twice-feelspi.gif)](https://media.tenor.com/xyy_Bq_G_hEAAAAM/twice-feelspi.gif)">
 </div>
 
 ### 📌 About Me
