@@ -1,6 +1,6 @@
 # CPE310-IE22S1: Fundamentals of Data Science 📊
 
-# Hi there, I'm Hannah Isabella! 👋
+# Hi there, I'm Hannah! 👋
 
 <div align="center">
   <img src="https://media.tenor.com/xyy_Bq_G_hEAAAAM/twice-feelspi.gif" width="400" alt="Twice GIF">
